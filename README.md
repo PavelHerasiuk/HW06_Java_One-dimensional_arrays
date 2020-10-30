@@ -1,2 +1,2 @@
-# HW_Java_One-dimensional_arrays
+# HW06_Java_One-dimensional_arrays
 Одномерные массивы
